@@ -475,5 +475,12 @@
     "path": "classof09reup/index.html",
     "thumbnail": "png/classof09reup.png",
     "description": ""
+  },
+      {
+    "name": "Just Shapes & Beats",
+    "slug": "jsab",
+    "path": "jsab/index.html",
+    "thumbnail": "gn/png/jsab.png",
+    "description": ""
   }
 ]
