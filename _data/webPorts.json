@@ -482,5 +482,12 @@
     "path": "jsab/index.html",
     "thumbnail": "gn/png/jsab.png",
     "description": ""
+  },
+   {
+    "name": "Totally Accurate Battle Simulator",
+    "slug": "tabs",
+    "path": "tabs/index.html",
+    "thumbnail": "gn/png/tabs.png",
+    "description": ""
   }
 ]
